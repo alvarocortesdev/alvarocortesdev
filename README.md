@@ -16,7 +16,7 @@ Actualmente estoy en / Currently, I am:
 ## 📫 Como contactarme / How to reach me ...
 
 mailto: alvaro.cortes.dev@outlook.com
-web: <a href="alvarocortes.cl">alvarocortes.cl</a>
+web: alvarocortes.cl
 
 ## 🧐 Sobre mí / About me<a name = "sobre"></a>
 
