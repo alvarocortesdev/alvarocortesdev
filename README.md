@@ -1,6 +1,6 @@
 ## 👋🏻👀 Hola! - Hi there!
 
-Soy/I'm @alvarocortesdev - Alvaro "Pelusa" Cortés.
+Soy / I'm @alvarocortesdev - Alvaro "Pelusa" Cortés.
 Actualmente estoy en / Currently, I am:
 
 - 💻 Buscando trabajo como Fullstack Web Developer o AI & Automation Engineer.
