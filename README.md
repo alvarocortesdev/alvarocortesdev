@@ -3,13 +3,12 @@
 Soy/I'm @alvarocortesdev - Alvaro "Pelusa" Cortés.
 Actualmente estoy en / Currently, I am:
 
-- 💻 C# - .NET as Software Developer @ Pares&Alvarez
+- 💻 Buscando trabajo como Fullstack Web Developer o AI & Automation Engineer.
 
 ## 🌱 Actualmente aprendiendo / I’m currently learning ...
 
-- Python
-- AI
-- LLMs
+- AI: Agentic Automation Workflows
+- LLMs: Model personalizations
 - ML
 
 ## 📫 Como contactarme / How to reach me ...
@@ -24,13 +23,13 @@ Tengo 39 años y vivo con mi familia 🐈🙋‍♀️ en Santiago, respirando c
 I’m Chilean, born in Copiapó but raised as a "Porteño" in Valparaíso from a young age. 
 I'm 39 and live with my family 🐈🙋‍♀️ in Santiago, breathing code and smog every day.
 
-## 🏁 Metas <a name = "metas"></a>
+## 🏁 Metas / Goals <a name = "metas"></a>
 
-Avanzando en proyectos con C#/.NET.
-Integrando conocimientos de ML y DL (AI) con Python.
+Subiendo de nivel mi portafolio y aprendiendo nuevas tecnologías.
+Fusionando conceptos de ML y DL (IA) con Agentes de IA para automatización (actualmente profundizando en n8n).
 
-Moving forward in projects with C#/.NET.
-Integrating ML and DL (AI) expertise with Python.
+Leveling up my portfolio and upskilling in new tech.
+Merging ML & DL (AI) insights with AI Agents for automation (currently deep diving into n8n).
 
 ## 🚀 Aficiones / Hobbies <a name = "aficiones"></a>
 
@@ -39,4 +38,4 @@ Integrating ML and DL (AI) expertise with Python.
 - 🧑‍💻 Tecnología / Tech
 - 🥷 Anime
 - 🎮 Gaming
-- 🍺 Cerveza / Beer, Piscola y Jack Daniels
+- 🌱 Plants
