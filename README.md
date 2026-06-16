@@ -3,13 +3,12 @@
 Soy / I'm @alvarocortesdev - Alvaro "Pelusa" Cortés.
 Actualmente estoy en / Currently, I am:
 
-- 💻 Buscando trabajo como Fullstack Web Developer o AI & Automation Engineer.
+- 💻 Trabajando como Ingeniero de Automatizaciones / Working as Automation Engineer @ iConstruye.
 
 ## 🌱 Actualmente aprendiendo / I’m currently learning ...
 
-- AI: Agentic Automation Workflows
-- LLMs: Model personalizations
-- ML
+- Angular
+- ASP.NET
 
 ## 📫 Como contactarme / How to reach me ...
 
@@ -26,10 +25,10 @@ I'm 39 and live with my family 🐈🙋‍♀️ in Santiago, breathing code and
 ## 🏁 Metas / Goals <a name = "metas"></a>
 
 Subiendo de nivel mi portafolio y aprendiendo nuevas tecnologías.
-Fusionando conceptos de ML y DL (IA) con Agentes de IA para automatización (actualmente profundizando en n8n).
+Experimentando con IA para procesos de automatización (actualmente trabajando desde n8n).
 
 Leveling up my portfolio and upskilling in new tech.
-Merging ML & DL (AI) insights with AI Agents for automation (currently deep diving into n8n).
+Experimenting with AI for automation processes (currently working on n8n).
 
 ## 🚀 Aficiones / Hobbies <a name = "aficiones"></a>
 
