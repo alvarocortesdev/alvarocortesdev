@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Guard anti-Claude: borra trailers de co-autoría de IA del mensaje de commit.
+# Activar una vez por clon:  git config core.hooksPath .githooks
+set -euo pipefail
+msg_file="${1:?missing commit message file}"
+[ -f "$msg_file" ] || exit 0
+tmp="${msg_file}.guard.tmp"
+grep -viE 'co-authored-by:.*(claude|anthropic)|generated with .*claude' "$msg_file" > "$tmp" || true
+awk 'NF{last=NR} {buf[NR]=$0} END{for(i=1;i<=last;i++) print buf[i]}' "$tmp" > "$msg_file"
+rm -f "$tmp"
+exit 0
