@@ -17,10 +17,10 @@ mailto: alvaro.cortes.dev@outlook.com  |  web: [alvarocortes.cl](https://alvaroc
 ## 🧐 Sobre mí / About me<a name = "sobre"></a>
 
 Soy chileno, nacido en Copiapó pero "aporteñado" desde muy pequeño en Valparaíso.
-Tengo 39 años y vivo con mi familia 🐈🙋‍♀️ en Santiago, respirando código y smog a diario.
+Tengo 40 años y vivo con mi familia 🐈🙋‍♀️ en Santiago, respirando código y smog a diario.
 
 I’m Chilean, born in Copiapó but raised as a "Porteño" in Valparaíso from a young age. 
-I'm 39 and live with my family 🐈🙋‍♀️ in Santiago, breathing code and smog every day.
+I'm 40 and live with my family 🐈🙋‍♀️ in Santiago, breathing code and smog every day.
 
 ## 🏁 Metas / Goals <a name = "metas"></a>
 
