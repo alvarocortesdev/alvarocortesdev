@@ -7,8 +7,7 @@ Actualmente estoy en / Currently, I am:
 
 ## 🌱 Actualmente aprendiendo / I’m currently learning ...
 
-- Angular
-- ASP.NET
+- [Mi curso de Ingeniero IA y Automatizaciones / My own course for AI Automation Engineer](https://github.com/alvarocortesdev/ai-automation-engineer-course)
 
 ## 📫 Como contactarme / How to reach me ...
 
